@@ -1,0 +1,1 @@
+import{_ as e}from"./index.4b6763cb.js";import{o as r,q as o}from"./vendor.a206512a.js";const t={};function c(n,a){return r(),o("h1",null,"\u8FD9\u662F\u64CD\u4F5C\u65E5\u5FD7\u9875\u9762")}var f=e(t,[["render",c]]);export{f as default};

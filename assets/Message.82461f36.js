@@ -1,0 +1,1 @@
+import{u as t,U as n,o,q as r,s,v as l,d as p,e as c,F as i}from"./vendor.a206512a.js";const v={setup(u){const{t:e}=t();return(_,g)=>{const a=n;return o(),r(i,null,[s("h1",null,"\u8FD9\u662F\u4E2A\u4EBA\u4E2D\u5FC3\u6D88\u606F\u9875\u9762--"+l(p(e)("sitename")),1),c(a,{"page-size":100,layout:"total, prev, pager, next",total:1e3})],64)}}};export{v as default};
